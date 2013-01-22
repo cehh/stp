@@ -1,0 +1,4 @@
+stp
+===
+
+Starterware Test Project
